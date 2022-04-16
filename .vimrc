@@ -66,3 +66,17 @@ colorscheme codedark
 set runtimepath^=~/.vim/bundle/ctrlp.vim
 
 
+"py << EOF 
+
+
+"import os
+
+"import sys
+
+
+"if 'VIRTUAL_ENV' in os.environ:
+"    pass
+
+"EOF
+" https://realpython.com/vim-and-python-a-match-made-in-heaven/#virtualenv-support       
+" https://dev.to/sansyrox/vim-python-virtualenv-a-plugin-to-manage-virtual-environments-in-python-54c
